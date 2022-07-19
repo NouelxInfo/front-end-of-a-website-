@@ -231,7 +231,7 @@ section .title::after{
     right: 0;
     top: 0;
     bottom: 0;
-    border: 15px solid #f9004d ;
+    
     display: grid;
     place-items: center;
     
